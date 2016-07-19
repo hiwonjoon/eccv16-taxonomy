@@ -1,0 +1,350 @@
+children: {
+	children: {
+		label: 30 # dolphin
+	}
+	children: {
+		label: 95 # whale
+	}
+	children: {
+		label: 73 # shark
+	}
+}
+children: {
+	children: {
+		label: 1 # aquarium_fish
+	}
+	children: {
+		label: 91 # trout
+	}
+	children: {
+		label: 32 # flatfish
+	}
+}
+children: {
+	children: {
+		label: 54 # orchid
+	}
+	children: {
+		label: 62 # poppy
+	}
+	children: {
+		label: 70 # rose
+	}
+	children: {
+		label: 82 # sunflower
+	}
+	children: {
+		label: 92 # tulip
+	}
+	children: {
+		label: 14 # butterfly
+	}
+}
+children: {
+	children: {
+		label: 9 # bottle
+	}
+	children: {
+		label: 10 # bowl
+	}
+	children: {
+		label: 16 # can
+	}
+	children: {
+		label: 28 # cup
+	}
+	children: {
+		label: 61 # plate
+	}
+}
+children: {
+	children: {
+		label: 0 # apple
+	}
+	children: {
+		label: 51 # mushroom
+	}
+	children: {
+		label: 53 # orange
+	}
+	children: {
+		label: 57 # pear
+	}
+	children: {
+		label: 83 # sweet_pepper
+	}
+}
+children: {
+	children: {
+		label: 39 # keyboard
+	}
+	children: {
+		label: 86 # telephone
+	}
+}
+children: {
+	children: {
+		label: 5 # bed
+	}
+	children: {
+		label: 20 # chair
+	}
+	children: {
+		label: 25 # couch
+	}
+	children: {
+		label: 84 # table
+	}
+	children: {
+		label: 94 # wardrobe
+	}
+	children: {
+		label: 87 # television
+	}
+}
+children: {
+	children: {
+		label: 6 # bee
+	}
+	children: {
+		label: 7 # beetle
+	}
+	children: {
+		label: 24 # cockroach
+	}
+	children: {
+		label: 45 # lobster
+	}
+}
+children: {
+	children: {
+		label: 3 # bear
+	}
+	children: {
+		label: 42 # leopard
+	}
+	children: {
+		label: 43 # lion
+	}
+	children: {
+		label: 88 # tiger
+	}
+	children: {
+		label: 97 # wolf
+	}
+}
+children: {
+	children: {
+		label: 17 # castle
+	}
+	children: {
+		label: 37 # house
+	}
+	children: {
+		label: 76 # skyscraper
+	}
+	children: {
+		label: 90 # train
+	}
+}
+children: {
+	children: {
+		label: 23 # cloud
+	}
+	children: {
+		label: 33 # forest
+	}
+	children: {
+		label: 49 # mountain
+	}
+	children: {
+		label: 60 # plain
+	}
+	children: {
+		label: 71 # sea
+	}
+}
+children: {
+	children: {
+		label: 15 # camel
+	}
+	children: {
+		label: 19 # cattle
+	}
+	children: {
+		label: 21 # chimpanzee
+	}
+	children: {
+		label: 31 # elephant
+	}
+	children: {
+		label: 38 # kangaroo
+	}
+	children: {
+		label: 29 # dinosaur
+	}
+}
+children: {
+	children: {
+		label: 34 # fox
+	}
+	children: {
+		label: 63 # porcupine
+	}
+	children: {
+		label: 64 # possum
+	}
+	children: {
+		label: 66 # raccoon
+	}
+	children: {
+		label: 75 # skunk
+	}
+}
+children: {
+	children: {
+		label: 77 # snail
+	}
+	children: {
+		label: 99 # worm
+	}
+	children: {
+		label: 78 # snake
+	}
+	children: {
+		label: 18 # caterpillar
+	}
+	children: {
+		label: 67 # ray
+	}
+}
+children: {
+	children: {
+		label: 2 # baby
+	}
+	children: {
+		label: 11 # boy
+	}
+	children: {
+		label: 35 # girl
+	}
+	children: {
+		label: 46 # man
+	}
+	children: {
+		label: 98 # woman
+	}
+}
+children: {
+	children: {
+		label: 27 # crocodile
+	}
+	children: {
+		label: 44 # lizard
+	}
+	children: {
+		label: 93 # turtle
+	}
+}
+children: {
+	children: {
+		label: 36 # hamster
+	}
+	children: {
+		label: 50 # mouse
+	}
+	children: {
+		label: 65 # rabbit
+	}
+	children: {
+		label: 74 # shrew
+	}
+	children: {
+		label: 80 # squirrel
+	}
+	children: {
+		label: 4 # beaver
+	}
+	children: {
+		label: 55 # otter
+	}
+}
+children: {
+	children: {
+		label: 47 # maple_tree
+	}
+	children: {
+		label: 52 # oak_tree
+	}
+	children: {
+		label: 56 # palm_tree
+	}
+	children: {
+		label: 59 # pine_tree
+	}
+	children: {
+		label: 96 # willow_tree
+	}
+}
+children: {
+	children: {
+		label: 81 # streetcar
+	}
+	children: {
+		label: 13 # bus
+	}
+	children: {
+		label: 48 # motorcycle
+	}
+	children: {
+		label: 68 # road
+	}
+}
+children: {
+	children: {
+		label: 41 # lawn_mower
+	}
+	children: {
+		label: 58 # pickup_truck
+	}
+	children: {
+		label: 85 # tank
+	}
+	children: {
+		label: 89 # tractor
+	}
+}
+children: {
+	children: {
+		label: 8 # bicycle
+	}
+	children: {
+		label: 22 # clock
+	}
+}
+children: {
+	children: {
+		label: 26 # crab
+	}
+	children: {
+		label: 79 # spider
+	}
+}
+children: {
+	children: {
+		label: 12 # bridge
+	}
+	children: {
+		label: 72 # seal
+	}
+}
+children: {
+	children: {
+		label: 69 # rocket
+	}
+}
+children: {
+	children: {
+		label: 40 # lamp
+	}
+}
