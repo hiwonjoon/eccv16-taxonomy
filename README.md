@@ -1,6 +1,6 @@
 # Taxonomy-Regularized Semantic Deep Convolutional Neural Networks
 
-+ Wonjoon Goo, Juyong Kim, Gunhee Kim, and Sung Ju Hwang(UNIST)
++ Wonjoon Goo(SNU, now at UT Austin), Juyong Kim(SNU), Gunhee Kim(SNU), and Sung Ju Hwang(UNIST)
 
 ![alt tag](https://raw.githubusercontent.com/hiwonjoon/eccv16-taxonomy/master/miscellaneous/headline.png)
 
