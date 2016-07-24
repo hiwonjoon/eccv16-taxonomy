@@ -77,8 +77,8 @@ If you find any problems, please contact me. Enjoy :)
 
 ## Authors
 
-[Wonjoon Goo](http://vision.snu.ac.kr/wonjoongoo/), [Juyong Kim](http://juyongkim.com/), [Gunhee Kim](http://www.cs.cmu.edu/~gunhee/),
-and [Sung Ju Hwang](http://www.sungjuhwang.com/)
+[Wonjoon Goo](http://vision.snu.ac.kr/wonjoongoo/)(SNU, now at UT Austin), [Juyong Kim](http://juyongkim.com/)(SNU), [Gunhee Kim](http://www.cs.cmu.edu/~gunhee/)(SNU),
+and [Sung Ju Hwang](http://www.sungjuhwang.com/)(UNIST)
 
 [Vision and Learning Lab](http://vision.snu.ac.kr/) @ Seoul National University
 
