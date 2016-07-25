@@ -75,14 +75,19 @@ You can use our code for your own datasets or taxonmy trees with minor modificat
 If you find any problems, please contact me. Enjoy :)
 
 
+## Acknowledgement
+
+This work was supported by Samsung Research Funding Center of Samsung Electronics under Project Number SRFC-IT1502-03.
+
+
 ## Authors
 
-[Wonjoon Goo](http://vision.snu.ac.kr/wonjoongoo/)(SNU, now at UT Austin), [Juyong Kim](http://juyongkim.com/)(SNU), [Gunhee Kim](http://www.cs.cmu.edu/~gunhee/)(SNU),
-and [Sung Ju Hwang](http://www.sungjuhwang.com/)(UNIST)
+[Wonjoon Goo](http://vision.snu.ac.kr/wonjoongoo/)<sup>1</sup>, [Juyong Kim](http://juyongkim.com/)<sup>1</sup>, [Gunhee Kim](http://www.cs.cmu.edu/~gunhee/)<sup>1</sup>, and [Sung Ju Hwang](http://www.sungjuhwang.com/)<sup>2</sup>
 
-[Vision and Learning Lab](http://vision.snu.ac.kr/) @ Seoul National University
+<sup>1</sup>[Vision and Learning Lab](http://vision.snu.ac.kr/) @ Computer Science and Engineering, Seoul National University, Seoul, Korea
 
-[MLVR Lab](http://vision-1.unist.ac.kr/) @ Ulsan National Institute of Science and Technology University
+<sup>2</sup>[MLVR Lab](http://vision-1.unist.ac.kr/) @ School of Electrical and Computer Engineering, UNIST, Ulsan, South Korea
+
 
 ## License
     MIT license
