@@ -4,7 +4,7 @@
 
 ![alt tag](https://raw.githubusercontent.com/hiwonjoon/eccv16-taxonomy/master/miscellaneous/headline.png)
 
-This project hosts the code for our **ECCV 2016** paper. [[pdf](http://#)]
+This project hosts the code for our **ECCV 2016** paper. [[pdf](http://vision.snu.ac.kr/wordpress/wp-content/uploads/2016/08/eccv16_taxonomy.pdf)]
 
 We propose a novel convolutional neural network architecture
 that abstracts and differentiates the categories based on a given class
