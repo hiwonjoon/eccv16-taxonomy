@@ -86,7 +86,7 @@ This work was supported by Samsung Research Funding Center of Samsung Electronic
 
 <sup>1</sup>[Vision and Learning Lab](http://vision.snu.ac.kr/) @ Computer Science and Engineering, Seoul National University, Seoul, Korea
 
-<sup>2</sup>[MLVR Lab](http://vision-1.unist.ac.kr/) @ School of Electrical and Computer Engineering, UNIST, Ulsan, South Korea
+<sup>2</sup>[MLVR Lab](http://ml.unist.ac.kr/) @ School of Electrical and Computer Engineering, UNIST, Ulsan, South Korea
 
 
 ## License
